@@ -6,10 +6,10 @@ Clone this repo or [open in Gitpod](https://gitpod.io/#https://github.com/total-
 
 ```sh
 # Installs all dependencies
-npm install
+pnpm install
 
 # Asks you which exercise you'd like to run, and runs it
-npm run exercise
+pnpm run exercise
 ```
 
 ## How to take the course
@@ -18,7 +18,7 @@ You'll notice that the course is split into exercises. Each exercise is split in
 
 To take an exercise:
 
-1. Run `npm run exercise`
+1. Run `pnpm run exercise`
 2. Choose which exercise you'd like to run.
 
 This course encourages **active, exploratory learning**. In the video, I'll explain a problem, and **you'll be asked to try to find a solution**. To attempt a solution, you'll need to:
@@ -37,8 +37,8 @@ Say thanks to Matt on [Twitter](https://twitter.com/mattpocockuk) or by joining 
 
 ## Reference
 
-### `npm run exercise`
+### `pnpm run exercise`
 
-Alias: `npm run e`
+Alias: `pnpm run e`
 
 Open a prompt for choosing which exercise you'd like to run.
